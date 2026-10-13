@@ -1,6 +1,6 @@
 ### Hi, I'm Gabriel Sena 👋
 
-Software Developer from Bahia, Brazil, building web apps, APIs, and AI integrations across the full stack.
+Software Developer building web apps, APIs, and AI integrations across the full stack.
 
 ---
 
